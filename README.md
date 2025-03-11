@@ -1,10 +1,18 @@
 # NoCraftPack
-Nom du Data Pack : NoCraftPack - 
+Nom du Data Pack : NoCraft -
 
-<br>Description :
-<br>Ce data pack désactive tous les crafts du jeu, à l'exception du Dropper et du Crafter, qui ne peuvent être fabriqués qu'une seule fois.
-<br>Si le data pack ne se lance pas correctement au démarrage, utilisez les commandes suivantes :
-<br>🔹 /reload
-<br>🔹 /function nocraft:restart
+Version : Minecraft 1.20.3 (avec l’expérimentation Update 1.21 activée)
 
-Idéal pour des défis Minecraft hardcore où la fabrication est limitée à l'essentiel ! 🚀
+Description :
+Ce data pack désactive tous les crafts du jeu, sauf ceux du Dropper et du Crafter, qui ne peuvent être fabriqués qu’une seule fois.
+
+⚠️ Installation :
+✅ Lors de la création du monde, allez dans Experiments et activez Update 1.21.
+✅ Activez également les commandes pour que le pack fonctionne correctement.
+
+🔧 Commandes utiles :
+<br>🔹 /reload – Si le pack ne se lance pas correctement.
+<br>🔹 /function nocraft:restart – Pour redémarrer le data pack.
+<br>🔹 /function nocraft:easymode – Active un mode plus facile (give un crafter).
+
+Un défi Minecraft extrême où la fabrication est ultra-limitée ! 🔥💀
