@@ -1,9 +1,9 @@
 # NoCraftPack
 Nom du Data Pack : NoCraftPack - 
 
-Description :
-Ce data pack désactive tous les crafts du jeu, à l'exception du Dropper et du Crafter, qui ne peuvent être fabriqués qu'une seule fois.
-Si le data pack ne se lance pas correctement au démarrage, utilisez les commandes suivantes :
+<br>Description :
+<br>Ce data pack désactive tous les crafts du jeu, à l'exception du Dropper et du Crafter, qui ne peuvent être fabriqués qu'une seule fois.
+<br>Si le data pack ne se lance pas correctement au démarrage, utilisez les commandes suivantes :
 <br>🔹 /reload
 <br>🔹 /function nocraft:restart
 
