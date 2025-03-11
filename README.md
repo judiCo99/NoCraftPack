@@ -7,8 +7,8 @@ Description :
 Ce data pack désactive tous les crafts du jeu, sauf ceux du Dropper et du Crafter, qui ne peuvent être fabriqués qu’une seule fois.
 
 ⚠️ Installation :
-✅ Lors de la création du monde, allez dans Experiments et activez Update 1.21.
-✅ Activez également les commandes pour que le pack fonctionne correctement.
+<br>✅ Lors de la création du monde, allez dans Experiments et activez Update 1.21.
+<br>✅ Activez également les commandes pour que le pack fonctionne correctement.
 
 🔧 Commandes utiles :
 <br>🔹 /reload – Si le pack ne se lance pas correctement.
