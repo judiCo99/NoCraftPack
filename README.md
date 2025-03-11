@@ -15,3 +15,7 @@ Ce data pack désactive tous les crafts du jeu, sauf ceux du Dropper et du Craft
 <br>🔹 /function nocraft:easymode – Active un mode plus facile (give un crafter).
 
 Un défi Minecraft extrême où la fabrication est ultra-limitée ! 🔥💀
+
+📝 Changelog (Version 1.21.4)
+🛠️ Mise à jour des fichiers : Certains noms de fichiers ont changé pour s’adapter à la nouvelle version.
+<br>🔹Le dossier functions a perdu son "s", il est maintenant function.
